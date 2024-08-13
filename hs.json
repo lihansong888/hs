@@ -2177,7 +2177,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./lib/live.txt",
+      "url": "https://iptv.b2og.com/txt/fmml_ipv6.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     }
