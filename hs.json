@@ -27,7 +27,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "./lib/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+      "jar": "./jar/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
     },
     {
       "key": "无忧短剧",
@@ -40,7 +40,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "jar": "./lib/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+      "jar": "./jar/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
     },
     {
       "key": "在线短剧",
@@ -63,7 +63,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+      "jar": "./jar/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
     },
     {
       "key": "新感觉",
