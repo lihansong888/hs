@@ -53,7 +53,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "jar": "./lib/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+      "jar": "./jar/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
     },
     {
       "key": "韩小圈",
