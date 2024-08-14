@@ -287,22 +287,8 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "腐剧视频",
-      "name": "腐剧｜视频",
-      "type": 3,
-      "api": "csp_WexFujutv",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "啾啾影视",
-      "name": "啾啾｜影视",
-      "type": 3,
-      "api": "csp_Wexjiohub",
-      "searchable": 1,
-      "changeable": 1
-    },
+    
+   
     {
       "key": "星辰影视",
       "name": "星辰｜影视",
