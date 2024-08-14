@@ -121,15 +121,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "铁剧影视",
-      "name": "铁剧｜APP",
-      "type": 3,
-      "api": "csp_AppBr",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
     {
       "key": "笙歌影视",
       "name": "笙歌｜APP",
