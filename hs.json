@@ -675,13 +675,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/去看吧.js"
     },
-    {
-      "key": "爱弹幕",
-      "name": "爱弹幕｜动漫",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/爱弹幕.js"
-    },
+    
     {
       "key": "异世界",
       "name": "异世界｜动漫",
