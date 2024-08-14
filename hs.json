@@ -646,13 +646,7 @@
     
     
     
-    {
-      "key": "NT动漫",
-      "name": "NT｜动漫",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/NT动漫.js"
-    },
+    
     {
       "key": "Anime1",
       "name": "Anime1｜动漫",
