@@ -651,8 +651,8 @@
       "key": "Anime1",
       "name": "Anime1｜动漫",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/Anime1.js"
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lihansong888/hs/main/lib/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lihansong888/hs/main/lib/Anime1.js"
     },
     {
       "key": "路漫漫",
